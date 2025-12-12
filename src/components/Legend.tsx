@@ -45,7 +45,7 @@ export default function Legend() {
   };
 
   return (
-    <div className="absolute bottom-6 left-6 z-50 rounded-2xl border border-white/60 bg-white/85 p-0 shadow-xl backdrop-blur">
+    <div className="absolute left-4 bottom-20 md:left-6 md:bottom-6 z-50 rounded-2xl border border-white/60 bg-white/85 p-0 shadow-xl backdrop-blur">
       {/* Header */}
       <button
         type="button"
